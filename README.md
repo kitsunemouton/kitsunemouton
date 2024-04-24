@@ -1,8 +1,8 @@
 # Hello, I'm Suzanne! 👋
 
-![Data science x Experience Design](link-to-a-relevant-image-or-banner)
+![Bannerof 3D PCA visualisation of hand written digits](imgur.com/AcdWsXz "Data in motion")
 
-I'm a Data Scientist student based in London. Welcome to my GitHub profile!
+I'm a Data Scientist and Experience Designer based in London. Welcome to my GitHub profile!
 
 ## About Me
 
