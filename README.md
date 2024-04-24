@@ -1,6 +1,6 @@
 # Hello, I'm Suzanne! 👋
 
-![Bannerof 3D PCA visualisation of hand written digits](imgur.com/AcdWsXz "Data in motion")
+![Data visualisation banner]((https://unsplash.com/photos/woman-wearing-grey-shirt-hJ5uMIRNg5k) "Data visualisation")
 
 I'm a Data Scientist and Experience Designer based in London. Welcome to my GitHub profile!
 
