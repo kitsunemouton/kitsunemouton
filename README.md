@@ -1,6 +1,6 @@
 # Hello, I'm Suzanne! 👋
 
-![Data visualisation banner](https://live.staticflickr.com/3632/3480442558_369d3ef490_z.jpg "Data visualisation")
+![Data visualisation banner](https://live.staticflickr.com/3632/3480442558_369d3ef490_z.jpg "Data visualisation by Lionel Maes")
 
 I'm a Data Scientist and Experience Designer based in London. Welcome to my GitHub profile!
 
