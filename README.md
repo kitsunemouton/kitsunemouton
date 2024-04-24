@@ -1,7 +1,3 @@
-
-<!--
-**kitsunemouton/kitsunemouton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # Hello, I'm Suzanne! 👋
 
 ![Data science x Experience Design](link-to-a-relevant-image-or-banner)
