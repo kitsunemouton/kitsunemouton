@@ -1,6 +1,6 @@
 # Hello, I'm Suzanne! 👋
 
-![Data visualisation banner]((https://unsplash.com/photos/woman-wearing-grey-shirt-hJ5uMIRNg5k) "Data visualisation")
+![Data visualisation banner](https://flic.kr/p/6iybjj) "Data visualisation")
 
 I'm a Data Scientist and Experience Designer based in London. Welcome to my GitHub profile!
 
