@@ -7,7 +7,7 @@ I'm a Data Scientist and Experience Designer based in London. Welcome to my GitH
 ## About Me
 
 - 🔭 I’m currently working on data visualisation experiments
-- 🌱 I’m currently learning about maching learning
+- 🌱 I’m currently learning about machine learning
 - 👯 I’m looking to collaborate on data science efforts rooted in social care and community wellbeing
 - 🤔 I’m looking for help with building my reputation in the data science field
 - 💬 Ask me about the relationship between data science and user experience
